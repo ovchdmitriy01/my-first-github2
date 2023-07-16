@@ -1,5 +1,3 @@
 #/bin/bash
-#add
+#cope-paste
 #cope
-#cope-paste
-#cope-paste
